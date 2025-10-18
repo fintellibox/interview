@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-17T08:17:13.036253Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-17T08:15:57.866166Z",
+      "mimetype": null,
+      "name": "interview.ipynb",
+      "path": "interview.ipynb",
+      "size": 3251,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-17T08:17:13.036253Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-17T08:15:03.266519Z",
+      "mimetype": null,
+      "name": "interview.parquet",
+      "path": "interview.parquet",
+      "size": 9658122,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-17T08:17:13.036253Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-17T08:17:13.036253Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
